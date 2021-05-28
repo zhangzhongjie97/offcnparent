@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../offcnparent/scwparent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../offcnparent/scwparent/scworder" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../offcnparent/scwparent/scwproject" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../offcnparent/scwparent/scwuser" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../offcnparent/scwregister" charset="UTF-8" />
+  </component>
+</project>

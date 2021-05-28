@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../offcnparent/scwcommon/scwcommon.iml" filepath="$PROJECT_DIR$/../offcnparent/scwcommon/scwcommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../offcnparent/scwparent/scworder/scworder.iml" filepath="$PROJECT_DIR$/../offcnparent/scwparent/scworder/scworder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../offcnparent/scwparent/scwparent.iml" filepath="$PROJECT_DIR$/../offcnparent/scwparent/scwparent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../offcnparent/scwparent/scwproject/scwproject.iml" filepath="$PROJECT_DIR$/../offcnparent/scwparent/scwproject/scwproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../offcnparent/scwregister/scwregister.iml" filepath="$PROJECT_DIR$/../offcnparent/scwregister/scwregister.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../offcnparent/scwparent/scwuser/scwuser.iml" filepath="$PROJECT_DIR$/../offcnparent/scwparent/scwuser/scwuser.iml" />
+    </modules>
+  </component>
+</project>
